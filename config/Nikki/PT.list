@@ -1,9 +1,11 @@
 # 内容 PT站点
 
+# 域名匹配
+DOMAIN,tracker.m-team.io
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,hdfans.org
