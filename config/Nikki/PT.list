@@ -6,7 +6,7 @@ DOMAIN,tracker.m-team.io
 # 域名后缀匹配
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,rousi.zip
+#DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,zmpt.cc
